@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JogoAdivinha</string>
+    <string name="enviar">Enviar</string>
+    <string name="adivinhe_o_n_mero_em_que_estou_a_pensar_entre_1_a_10">Adivinhe o Número em que estou a pensar (entre 1 a 10)</string>
+    <string name="numero_maior_que_10">Número deve ser menor que 10</string>
+    <string name="adivinhar">Adivinhar</string>
 </resources>
